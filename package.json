@@ -40,7 +40,7 @@
     "clsx": "^2.1.1",
     "eslint": "^9",
     "eslint-config-next": "15.1.5",
-    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-prettier": "^10.0.2",
     "postcss": "^8.4.49",
     "prettier": "^3.4.2",
     "tailwind-merge": "^2.5.5",
